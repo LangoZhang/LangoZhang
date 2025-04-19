@@ -2,6 +2,10 @@
 
 * [欢迎访问](README.md)
 
+## 导航 <a href="#nav" id="nav"></a>
+
+* [导航](nav/dao-hang.md)
+
 ## 技术博客 <a href="#tech-class" id="tech-class"></a>
 
 * [自建hysteria服务器教程](tech-class/zi-jian-hysteria-fu-wu-qi-jiao-cheng.md)
