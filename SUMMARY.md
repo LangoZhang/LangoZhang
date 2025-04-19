@@ -10,3 +10,4 @@
 ## 网络工程
 
 * [01 计算机网络概述](wang-luo-gong-cheng/01-ji-suan-ji-wang-luo-gai-shu.md)
+* [02 计算机基础知识](wang-luo-gong-cheng/02-ji-suan-ji-ji-chu-zhi-shi.md)
