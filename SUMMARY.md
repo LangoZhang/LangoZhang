@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [欢迎访问](README.md)
 
 ## Getting Started
 
@@ -15,3 +15,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## 技术博客 <a href="#tech-class" id="tech-class"></a>
+
+* [自建hysteria服务器教程](tech-class/zi-jian-hysteria-fu-wu-qi-jiao-cheng.md)
